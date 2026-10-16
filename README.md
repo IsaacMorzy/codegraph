@@ -87,8 +87,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/<your-username>/codecravt.git
-cd codecravt
+git clone https://github.com/<your-username>/codegraph.git
+cd codegraph
 ```
 
 **Installation**
